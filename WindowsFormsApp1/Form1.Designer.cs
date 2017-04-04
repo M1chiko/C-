@@ -109,9 +109,9 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(63, 125);
+            this.button1.Location = new System.Drawing.Point(26, 125);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.Size = new System.Drawing.Size(168, 46);
             this.button1.TabIndex = 5;
             this.button1.Text = "Vypočítej";
             this.button1.UseVisualStyleBackColor = true;
